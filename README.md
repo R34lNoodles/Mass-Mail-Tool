@@ -12,7 +12,7 @@ This script allows you to send an email with an attachment to multiple recipient
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/automated-email-sender.git
+    git clone https://github.com/R34lNoodles/Mass-Mail-Tool.git
     cd automated-email-sender
     ```
 
